@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterStrike", "CounterStrike\CounterStrike.csproj", "{2DA08583-EE11-4547-BA9F-0AD1EFD64120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEntry", "GameEntry\GameEntry.csproj", "{BFD0CDDF-18CB-4CDA-AB52-3061166ACBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA08583-EE11-4547-BA9F-0AD1EFD64120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA08583-EE11-4547-BA9F-0AD1EFD64120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA08583-EE11-4547-BA9F-0AD1EFD64120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA08583-EE11-4547-BA9F-0AD1EFD64120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD0CDDF-18CB-4CDA-AB52-3061166ACBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD0CDDF-18CB-4CDA-AB52-3061166ACBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD0CDDF-18CB-4CDA-AB52-3061166ACBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD0CDDF-18CB-4CDA-AB52-3061166ACBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEEC4ADA-4962-444D-898E-F78BD3B82DE1}
+	EndGlobalSection
+EndGlobal
